@@ -1,0 +1,182 @@
+### $ARGV_max_read_n: undef
+### $ARGV_max_vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/air1-merged.sam'
+### $read_n: 16214
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/air2-merged.sam'
+### $read_n: 16997
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/air3-merged.sam'
+### $read_n: 17017
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/amphibians1-merged.sam'
+### $read_n: 20000
+### $vote_n: 7867
+### Processing read mapping file: 'pure/aligned_fastq_best/amphibians2-merged.sam'
+### $read_n: 18708
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/amphibians3-merged.sam'
+### $read_n: 20000
+### $vote_n: 3496
+### Processing read mapping file: 'pure/aligned_fastq_best/angiosperms1-merged.sam'
+### $read_n: 20000
+### $vote_n: 6208
+### Processing read mapping file: 'pure/aligned_fastq_best/angiosperms2-merged.sam'
+### $read_n: 20000
+### $vote_n: 6067
+### Processing read mapping file: 'pure/aligned_fastq_best/angiosperms3-merged.sam'
+### $read_n: 20000
+### $vote_n: 5196
+### Processing read mapping file: 'pure/aligned_fastq_best/aquatic1-merged.sam'
+### $read_n: 18216
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/aquatic2-merged.sam'
+### $read_n: 20000
+### $vote_n: 6165
+### Processing read mapping file: 'pure/aligned_fastq_best/aquatic3-merged.sam'
+### $read_n: 20000
+### $vote_n: 4439
+### Processing read mapping file: 'pure/aligned_fastq_best/birds1-merged.sam'
+### $read_n: 20000
+### $vote_n: 4383
+### Processing read mapping file: 'pure/aligned_fastq_best/birds2-merged.sam'
+### $read_n: 20000
+### $vote_n: 3839
+### Processing read mapping file: 'pure/aligned_fastq_best/birds3-merged.sam'
+### $read_n: 20000
+### $vote_n: 4085
+### Processing read mapping file: 'pure/aligned_fastq_best/bovids1-merged.sam'
+### $read_n: 20000
+### $vote_n: 6109
+### Processing read mapping file: 'pure/aligned_fastq_best/bovids2-merged.sam'
+### $read_n: 20000
+### $vote_n: 6704
+### Processing read mapping file: 'pure/aligned_fastq_best/bovids3-merged.sam'
+### $read_n: 20000
+### $vote_n: 5992
+### Processing read mapping file: 'pure/aligned_fastq_best/canids1-merged.sam'
+### $read_n: 12851
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/canids2-merged.sam'
+### $read_n: 12925
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/canids3-merged.sam'
+### $read_n: 12441
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/crustaceans1-merged.sam'
+### $read_n: 11210
+### $vote_n: 3475
+### Processing read mapping file: 'pure/aligned_fastq_best/crustaceans2-merged.sam'
+### $read_n: 12540
+### $vote_n: 4322
+### Processing read mapping file: 'pure/aligned_fastq_best/crustaceans3-merged.sam'
+### $read_n: 5326
+### $vote_n: 3919
+### Processing read mapping file: 'pure/aligned_fastq_best/equids1-merged.sam'
+### $read_n: 12606
+### $vote_n: 2652
+### Processing read mapping file: 'pure/aligned_fastq_best/equids2-merged.sam'
+### $read_n: 20000
+### $vote_n: 4526
+### Processing read mapping file: 'pure/aligned_fastq_best/equids3-merged.sam'
+### $read_n: 20000
+### $vote_n: 4483
+### Processing read mapping file: 'pure/aligned_fastq_best/felids1-merged.sam'
+### $read_n: 5335
+### $vote_n: 657
+### Processing read mapping file: 'pure/aligned_fastq_best/felids2-merged.sam'
+### $read_n: 12853
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/felids3-merged.sam'
+### $read_n: 13059
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/fish1-merged.sam'
+### $read_n: 15007
+### $vote_n: 1355
+### Processing read mapping file: 'pure/aligned_fastq_best/fish2-merged.sam'
+### $read_n: 5687
+### $vote_n: 2146
+### Processing read mapping file: 'pure/aligned_fastq_best/fish3-merged.sam'
+### $read_n: 20000
+### $vote_n: 4990
+### Processing read mapping file: 'pure/aligned_fastq_best/food1-merged.sam'
+### $read_n: 19123
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/food2-merged.sam'
+### $read_n: 20000
+### $vote_n: 7103
+### Processing read mapping file: 'pure/aligned_fastq_best/food3-merged.sam'
+### $read_n: 12037
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/human1-merged.sam'
+### $read_n: 11126
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/human2-merged.sam'
+### $read_n: 11273
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/human3-merged.sam'
+### $read_n: 12387
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/insects1-merged.sam'
+### $read_n: 11119
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/insects2-merged.sam'
+### $read_n: 10711
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/insects3-merged.sam'
+### $read_n: 11473
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/molluscs1-merged.sam'
+### $read_n: 11826
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/molluscs2-merged.sam'
+### $read_n: 20000
+### $vote_n: 9464
+### Processing read mapping file: 'pure/aligned_fastq_best/molluscs3-merged.sam'
+### $read_n: 18172
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/nematoda1-merged.sam'
+### $read_n: 12044
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/nematoda2-merged.sam'
+### $read_n: 12036
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/nematoda3-merged.sam'
+### $read_n: 12181
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/reptiles1-merged.sam'
+### $read_n: 20000
+### $vote_n: 1885
+### Processing read mapping file: 'pure/aligned_fastq_best/reptiles2-merged.sam'
+### $read_n: 20000
+### $vote_n: 4523
+### Processing read mapping file: 'pure/aligned_fastq_best/reptiles3-merged.sam'
+### $read_n: 20000
+### $vote_n: 7599
+### Processing read mapping file: 'pure/aligned_fastq_best/rodents1-merged.sam'
+### $read_n: 17493
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/rodents2-merged.sam'
+### $read_n: 19729
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/rodents3-merged.sam'
+### $read_n: 15985
+### $vote_n: 7137
+### Processing read mapping file: 'pure/aligned_fastq_best/soil1-merged.sam'
+### $read_n: 20000
+### $vote_n: 5193
+### Processing read mapping file: 'pure/aligned_fastq_best/soil2-merged.sam'
+### $read_n: 19001
+### $vote_n: 10000
+### Processing read mapping file: 'pure/aligned_fastq_best/soil3-merged.sam'
+### $read_n: 20000
+### $vote_n: 5900
+### Processing read mapping file: 'pure/aligned_fastq_best/suids1-merged.sam'
+### $read_n: 20000
+### $vote_n: 6128
+### Processing read mapping file: 'pure/aligned_fastq_best/suids2-merged.sam'
+### $read_n: 20000
+### $vote_n: 7002
+### Processing read mapping file: 'pure/aligned_fastq_best/suids3-merged.sam'
+### $read_n: 20000
+### $vote_n: 7200
